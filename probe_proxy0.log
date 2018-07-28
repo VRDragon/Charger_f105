@@ -1,0 +1,88 @@
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :category:category, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@2e0bc3
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :category:category
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :pubDate:pubDate, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@2e0bc3
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :pubDate:pubDate
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :author:author, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@2e0bc3
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :author:author
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: :guid:guid, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@2e0bc3
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :guid:guid
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector startElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date, attrs: com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser$AttributesProxy@2e0bc3
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State push
+FINEST: State.push
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: http://purl.org/dc/elements/1.1/:date:dc:date
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :item:item
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :channel:channel
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector characters
+FINEST: SAXConnector.characters: [C@68a1b6
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endElement
+FINER: SAXConnector.startElement: :rss:rss
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.UnmarshallingContext$State pop
+FINEST: State.pop
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endPrefixMapping
+FINER: SAXConnector.endPrefixMapping: content
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endPrefixMapping
+FINER: SAXConnector.endPrefixMapping: dc
+júl 26, 2018 11:00:48 PM com.sun.xml.internal.bind.v2.runtime.unmarshaller.SAXConnector endDocument
+FINER: SAXConnector.endDocument
+júl 26, 2018 11:05:40 PM edu.hawaii.ics.csdl.jupiter.util.JupiterLogger debug
+INFO: the window was closed.
